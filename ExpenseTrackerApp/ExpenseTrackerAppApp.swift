@@ -13,5 +13,7 @@ struct ExpenseTrackerAppApp: App {
         WindowGroup {
             ContentView()
         }
+        
+        
     }
 }
