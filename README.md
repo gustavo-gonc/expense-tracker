@@ -1,2 +1,2 @@
 # ExpenseTrackerApp
-Expense tracker app built in Swift and Swift Data.
+Expense tracker app built in SwiftUI and Swift Data.
